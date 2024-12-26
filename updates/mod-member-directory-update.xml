@@ -1,0 +1,16 @@
+<updates>
+    <update>
+        <name>Member Directory</name>
+        <description>Joomla module to display a directory of registered members on the site. It includes real-time search, a responsive and modern layout, and display statistics. Ideal for community or association websites.</description>
+        <element>mod_member_directory</element>
+        <type>file</type>
+        <version>1.0.0</version>
+        <infourl title="Xcelerate Joomla Modules">https://cms-mod-fe.xcelerate-future.com</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.zip</downloadurl>
+        </downloads>
+        <maintainer>Xcelerate</maintainer>
+        <maintainerurl>https://cms-mod-fe.xcelerate-future.com</maintainerurl>
+        <targetplatform name="joomla" version="4.0" >
+    </update>
+</updates>
