@@ -12,6 +12,6 @@
         </downloads>
         <maintainer>Xcelerate</maintainer>
         <maintainerurl>https://cms-mod-fe.xcelerate-future.com</maintainerurl>
-        <targetplatform name="joomla" version="4.0" />
+        <targetplatform name="joomla" version="4.[0-9]|5.[0-9]" />
     </update>
 </updates>
