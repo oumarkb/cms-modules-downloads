@@ -6,15 +6,17 @@
         <element>mod_member_directory</element>
         <type>module</type>
         <version>1.0.1</version>
-        <infourl title="Xcelerate Joomla Modules">https://cms-mod-fe.xcelerate-future.com</infourl>
+        <infourl title="Member Directory Module">https://cms-mod-fe.xcelerate-future.com/member-directory-module-demo
+        </infourl>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/feature/init-update-file/downloads/Member%20Directory/mod_member_directory_v1.0.1.zip</downloadurl>
         </downloads>
-            <tags>
+        <tags>
             <tag>stable</tag>
         </tags>
         <maintainer>Xcelerate</maintainer>
         <maintainerurl>https://cms-mod-fe.xcelerate-future.com</maintainerurl>
         <targetplatform name="joomla" version="4.[0-9]|5.[0-9]" />
+        <client>site</client>
     </update>
 </updates>
