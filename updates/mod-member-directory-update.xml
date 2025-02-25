@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <updates>
+       <update>
+        <name>Member Directory</name>
+        <description>Version 1.0.1: Update maintainer website url.</description>
+        <element>mod_member_directory</element>
+        <type>module</type>
+        <version>1.0.1</version>
+        <infourl title="Member Directory Module">https://cms-mod-fe.xcelerate-future.com/member-directory-module-demo
+        </infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.1.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Xcelerate</maintainer>
+        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <targetplatform name="joomla" version="4.[0-9]|5.[0-9]" />
+        <client>site</client>
+    </update>
     <update>
         <name>Member Directory</name>
         <description>Version 1.0.0: Initial stable release with basic member directory features.</description>
@@ -15,7 +34,7 @@
             <tag>stable</tag>
         </tags>
         <maintainer>Xcelerate</maintainer>
-        <maintainerurl>https://cms-mod-fe.xcelerate-future.com</maintainerurl>
+        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
         <targetplatform name="joomla" version="4.[0-9]|5.[0-9]" />
         <client>site</client>
     </update>
