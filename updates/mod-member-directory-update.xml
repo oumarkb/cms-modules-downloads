@@ -2,6 +2,25 @@
 <updates>
     <update>
         <name>Member Directory</name>
+        <description>Version 1.0.3: Fix "searh" typo into the search bar and trim config values to have a better user experience</description>
+        <element>mod_member_directory</element>
+        <type>module</type>
+        <version>1.0.3</version>
+        <infourl title="Member Directory Module">https://www.xcelerate-future.com/member-directory-module-demo
+        </infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v1.0.3.zip</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <maintainer>Xcelerate</maintainer>
+        <maintainerurl>https://www.xcelerate-future.com</maintainerurl>
+        <targetplatform name="joomla" version="4.[0-9]|5.[0-9]" />
+        <client>site</client>
+    </update>
+    <update>
+        <name>Member Directory</name>
         <description>Version 1.0.2: Add "Get a license key" button when license key is missing.</description>
         <element>mod_member_directory</element>
         <type>module</type>
