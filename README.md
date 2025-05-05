@@ -14,7 +14,7 @@ To get started with our modules:
    Browse this repository and download the latest version of the module ZIP file that suits your needs.
 
 2. **Follow the Installation Guide**  
-   Detailed instructions on installing and activating your module can be found on our [Installation Guide](https://cms-mod-fe.xcelerate-future.com/guide.html).
+   Detailed instructions on installing and activating your module can be found on our [website](https://www.xcelerate-future.com).
 
 ## Support
 
