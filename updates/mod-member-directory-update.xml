@@ -11,7 +11,7 @@
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/oumarkb/cms-modules-downloads/raw/refs/heads/main/downloads/Member%20Directory/mod_member_directory_v2.0.1.zip</downloadurl>
         </downloads>
-        <checksum>b48379b5761a6b1028be0b18fd7acc57</checksum>
+        <checksum>c7ee49d18585dc1f3721a53c86c860a7</checksum>
         <tags>
             <tag>stable</tag>
         </tags>
